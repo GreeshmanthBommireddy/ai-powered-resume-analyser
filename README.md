@@ -6,8 +6,6 @@
 
 This application leverages the power of Large Language Models to provide job seekers with instant, intelligent, and actionable feedback, helping them stand out in a competitive market.
 
-[➡️ View the Live Demo](https://resumeanalyzerbykarthikeya.netlify.app/)
-
 </div>
 
 ---
@@ -72,19 +70,19 @@ The project is built on a modern, client-side architecture that is efficient, pr
 * **PDF Parsing (PDF.js):** Text extraction is handled entirely on the client-side for speed and privacy. This avoids the need to upload and store sensitive user files on a server.
 * **Deployment (Netlify):** Connected via GitHub for seamless Continuous Integration and Continuous Deployment (CI/CD). Environment variables are managed securely through the Netlify UI.
 
-<img width="1919" height="1079" alt="Resume Analyzer Upload Screen" src="https://github.com/user-attachments/assets/22e9f843-1df5-4fc7-b586-4fe2b80e6080" />
-<img width="1919" height="1079" alt="Resume Analysis Results" src="https://github.com/user-attachments/assets/a1d8d8ab-15fa-480c-9e77-75d5682cd302" />
-<img width="1919" height="1079" alt="Job Matcher Feature" src="https://github.com/user-attachments/assets/4d2d9a14-d0cd-47e5-8078-c78c8ccf6273" />
-<img width="1919" height="1077" alt="Resume History View" src="https://github.com/user-attachments/assets/7fdb12ce-227f-475d-a573-93f6f0fb80ab" />
-<img width="1917" height="1075" alt="Detailed Analysis View" src="https://github.com/user-attachments/assets/f13eedc2-d303-4e77-875b-bc2cf8c37ca9" />
+<img width="1890" height="869" alt="image" src="https://github.com/user-attachments/assets/c7e94aef-974b-4a3a-bc72-97eeb93114d7" />
+<img width="1910" height="851" alt="image" src="https://github.com/user-attachments/assets/2e1a9502-26b3-434b-a997-e88a592ea805" />
+<img width="1877" height="866" alt="image" src="https://github.com/user-attachments/assets/1219ffdd-7cec-4804-a6fb-1a3b15963a01" />
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/d425893e-dbf3-4e96-b588-fcce52052f81" />
+
 
 ---
 
 # ✍️ Author
 
-**Karthikeya Reddy Bommireddy**
+**Greeshmanth Reddy Bommireddy**
 
- [**GitHub**](https://github.com/karthikeyabommireddy) | [**LinkedIn**](https://www.linkedin.com/in/karthikeya-reddy-bommireddy/)
+ [**GitHub**](https://github.com/GreeshmanthBommireddy) 
 
 ---
 
@@ -92,9 +90,6 @@ The project is built on a modern, client-side architecture that is efficient, pr
 
 This project is open source and available under the [MIT License](LICENSE).
 
-# 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/karthikeyabommireddy/resume_analyzer_using_gemini_api/issues).
 
 # ⭐ Show Your Support
 
